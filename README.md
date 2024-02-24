@@ -1,4 +1,12 @@
-### Hi there 👋
+### wassup Digga?
+
+Ich bin eine Web-Programmierer.  
+Ich lerne gerade React und Node.  
+Ich bin ein Neuling und würde mich über Kritik an meinem Code freuen.  
+
+Besuchen Sie den Link im Profil mit meinem Portfolio plz)
+
+Ziel: Nach Deutschland ziehen und ein neues Leben beginnen.
 
 <!--
 **ztrixs/ztrixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
