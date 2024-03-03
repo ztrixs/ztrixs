@@ -1,24 +1,6 @@
-### wassup Digga?
+### Вітаю!
 
-Ich bin eine Web-Programmierer.  
-Ich lerne gerade React und Node.  
-Ich bin ein Neuling und würde mich über Kritik an meinem Code freuen.  
+Мене звати Влад і я початкуючий программіст.
+Буду радий будь-якій критиці. 
 
-Besuchen Sie den Link im Profil mit meinem Portfolio plz)
-
-Ziel: Nach Deutschland ziehen und ein neues Leben beginnen.
-
-<!--
-**ztrixs/ztrixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ТГК: @ztrixirl
